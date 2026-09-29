@@ -1,0 +1,16 @@
+DATA CLEANING & REPORTING AUTOMATION — GENERATED PROJECT
+
+Raw records: 1022
+Clean records: 992
+Rows removed: 30
+Duplicate rows detected: 22
+Data quality score: 97.06%
+
+Main outputs:
+- data/processed/cleaned_sales_data.csv
+- data/processed/data_issues.csv
+- data/processed/data_quality_audit.csv
+- output/automated_sales_report.xlsx
+
+Dashboard:
+streamlit run dashboard/app.py

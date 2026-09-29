@@ -1,0 +1,12 @@
+Column,Data Type,Missing Count,Missing %,Unique Values
+Order ID,object,0,0.0,1000
+Order Date,object,12,1.17,266
+Customer ID,object,0,0.0,75
+Product,object,0,0.0,20
+Category,object,0,0.0,4
+Region,object,18,1.76,10
+Channel,object,0,0.0,6
+Quantity,int64,0,0.0,10
+Unit Price,float64,25,2.45,12
+Discount,float64,0,0.0,6
+Customer Name,object,40,3.91,75

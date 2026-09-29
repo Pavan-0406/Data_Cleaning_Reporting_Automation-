@@ -1,0 +1,31 @@
+order_id,order_date,customer_id,product,category,region,channel,quantity,unit_price,discount,customer_name,Issue Type
+ORD-00779,2026-07-31,CUST1039,External SSD 1TB,Electronics,Central,Partner,1,7600.0,0.1,Customer 41,Duplicate row
+ORD-00335,2026-02-18,CUST1028,Noise Cancelling Headphones,Electronics,Central,Retail,1,8900.0,0.02,Customer 35,Duplicate row
+ORD-00272,2026-07-30,CUST1008,Noise Cancelling Headphones,Electronics,South,Partner,8,8900.0,0.15,Customer 27,Duplicate row
+ORD-00803,2026-08-11,CUST1031,Notebook Pack,Stationery,South,Partner,6,650.0,0.1,Customer 10,Duplicate row
+ORD-00217,2026-02-10,CUST1020,Laptop Pro 14,Electronics,Central,Partner,5,78000.0,0.02,Customer 68,Duplicate row
+ORD-00409,2026-01-21,CUST1037,Laptop Pro 14,Electronics,Central,Retail,7,78000.0,0.1,Customer 55,Duplicate row
+ORD-00813,2026-03-30,CUST1072,Webcam HD,Electronics,West,Retail,3,4800.0,0.02,Customer 54,Duplicate row
+ORD-00095,2026-07-27,CUST1075,External SSD 1TB,Electronics,East,Retail,4,7600.0,0.05,Customer 71,Duplicate row
+ORD-00488,2026-01-29,CUST1040,Noise Cancelling Headphones,Electronics,Central,Retail,3,8900.0,0.0,Customer 18,Duplicate row
+ORD-00171,2026-06-18,CUST1046,Desk Lamp,Furniture,West,Partner,2,2100.0,0.08,Customer 7,Duplicate row
+ORD-00025,2026-07-24,CUST1067,Desk Lamp,Furniture,West,Online,6,2100.0,0.08,Customer 32,Duplicate row
+ORD-00243,2026-07-08,CUST1012,Webcam HD,Electronics,North,Retail,3,4800.0,0.1,Customer 51,Duplicate row
+ORD-00543,2026-04-25,CUST1061,Webcam HD,Electronics,East,Partner,6,4800.0,0.1,Customer 58,Duplicate row
+ORD-00931,2026-01-07,CUST1063,Mechanical Keyboard,Accessories,West,Retail,5,5200.0,0.05,Customer 21,Duplicate row
+ORD-00887,2026-06-01,CUST1062,27-inch Monitor,Electronics,East,Online,2,22000.0,0.0,Customer 59,Duplicate row
+ORD-00427,2026-09-09,CUST1036,Laptop Pro 14,Electronics,North,Online,3,78000.0,0.15,Customer 30,Duplicate row
+ORD-00126,2026-06-02,CUST1058,Notebook Pack,Stationery,Central,Retail,8,650.0,0.02,Customer 45,Duplicate row
+ORD-00454,2026-03-17,CUST1068,Notebook Pack,Stationery,East,Online,3,650.0,0.0,Customer 48,Duplicate row
+ORD-00651,2026-04-28,CUST1072,Wireless Mouse,Accessories,West,Retail,5,1450.0,0.02,Customer 26,Duplicate row
+ORD-00914,2026-09-09,CUST1047,Office Chair,Furniture,West,Online,1,14500.0,0.15,Customer 55,Duplicate row
+ORD-00169,2026-05-11,CUST1061,Office Chair,Furniture,North,Online,3,14500.0,0.15,Customer 11,Duplicate row
+ORD-00777,2026-01-15,CUST1044,Mechanical Keyboard,Accessories,West,Retail,4,5200.0,0.05,Customer 5,Duplicate row
+ORD-00005,2026-03-21,CUST1012,27-inch Monitor,Electronics,West,Online,-1,22000.0,0.0,Customer 46,Invalid quantity (<= 0)
+ORD-00173,2026-03-21,CUST1014,Desk Lamp,Furniture,East,Partner,-2,2100.0,0.02,Customer 48,Invalid quantity (<= 0)
+ORD-00343,2026-07-14,CUST1050,External SSD 1TB,Electronics,East,Retail,-2,7600.0,0.15,Customer 14,Invalid quantity (<= 0)
+ORD-00461,2026-05-16,CUST1009,27-inch Monitor,Electronics,East,Retail,-2,22000.0,0.15,Customer 14,Invalid quantity (<= 0)
+ORD-00533,2026-08-13,CUST1004,Mechanical Keyboard,Accessories,South,Retail,-2,5200.0,0.05,Customer 63,Invalid quantity (<= 0)
+ORD-00652,2026-03-16,CUST1002,External SSD 1TB,Electronics,South,Retail,-1,7600.0,0.08,Customer 64,Invalid quantity (<= 0)
+ORD-00750,2026-07-27,CUST1041,Laptop Pro 14,Electronics,West,Partner,-2,78000.0,0.15,Customer 74,Invalid quantity (<= 0)
+ORD-00861,2026-02-28,CUST1026,Webcam HD,Electronics,West,Retail,-1,5200.0,0.0,Customer 52,Invalid quantity (<= 0)
